@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Clicker</string>
+    <string name="Score">Очки: %1$d</string>
+    <string name="bestScore">Лучший результат: %1$d</string>
+    <string name="timeLeft">Время: %1$d</string>
+    <string name="tapMe">Нажми на меня!</string>
+    <string name="gameOverMessage">Время вышло, ваш результат: %1$d</string>
+</resources>
